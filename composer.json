@@ -1,0 +1,44 @@
+{
+    "name": "manus/manus-php-client",
+    "description": "Community-Driven PHP SDK for Manus AI API Integration.",
+    "keywords": [
+        "php",
+        "manus",
+        "openai",
+        "deepseek",
+        "qwen",
+        "sdk",
+        "codex",
+        "GPT-3",
+        "DALL-E",
+        "api",
+        "client",
+        "natural",
+        "language",
+        "processing"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/dependencies-packagist/manus-php-client",
+    "authors": [
+        {
+            "name": "jundayw",
+            "email": "jundayw@126.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Manus\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
