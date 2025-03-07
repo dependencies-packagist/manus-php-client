@@ -1,6 +1,6 @@
 {
-    "name": "manus/manus-php-client",
-    "description": "Community-Driven PHP SDK for Manus AI API Integration.",
+    "name": "open-agent/manus-php-client",
+    "description": "OpenManus is Coming.",
     "keywords": [
         "php",
         "manus",
